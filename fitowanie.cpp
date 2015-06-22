@@ -1,3 +1,9 @@
+
+/**
+ * @author     Michal Branka, Jakub Rosinski, Juliusz Chojenka
+ * @date       20.06.2015
+ */
+
 Double_t func2(Double_t *x, Double_t *par){
 	return par[0]*exp(-x[0]*par[1])+TMath::Gaus(x[0], par[2], par[3]);
 }
