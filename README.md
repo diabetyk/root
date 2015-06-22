@@ -1,2 +1,2 @@
 # root
-# Projekt wykonali Michał Brańka, Juliuch Chojenka i Jakub Rosiński
+# Projekt wykonali Michał Brańka, Juliusz Chojenka i Jakub Rosiński
